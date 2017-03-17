@@ -1,0 +1,5 @@
+Warning[207] C:\PROYECTOS MICRO_C\PRIMERPIC\PRIMER_PIC.X\PRIMER_PIC.ASM 21 : Found label after column 1. (ciclo)
+Message[302] C:\PROYECTOS MICRO_C\PRIMERPIC\PRIMER_PIC.X\CONFIGURACION.INC 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PROYECTOS MICRO_C\PRIMERPIC\PRIMER_PIC.X\CONFIGURACION.INC 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PROYECTOS MICRO_C\PRIMERPIC\PRIMER_PIC.X\CONFIGURACION.INC 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\PROYECTOS MICRO_C\PRIMERPIC\PRIMER_PIC.X\CONFIGURACION.INC 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
